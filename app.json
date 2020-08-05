@@ -1,0 +1,10 @@
+{
+	"name": "TTSSync Server",
+	"description": "Provides a server for connecting dndbeyond to Tabletop Simulator",
+	"repository": "https://github.com/samjhoward/ttssyncserver.git"
+	"env": {
+		"TTS_PASS": {
+			"description": "A password to prevent unwanted visitors from entering your fantasy world of choice."
+		}
+	}
+}
